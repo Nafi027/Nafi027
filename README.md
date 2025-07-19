@@ -11,7 +11,7 @@
 
 ## 🧑‍🎓 Education
 
-**B.Sc. in Electrical & Electronics Engineering**  
+**B.Sc. in Electrical & Electronic Engineering**  
 Shahjalal University of Science & Technology (SUST), Sylhet, Bangladesh  
 📅 *Expected Graduation: 2026*
 
