@@ -35,10 +35,10 @@ Shahjalal University of Science & Technology (SUST), Sylhet, Bangladesh
 
 ## 🏛️ Research & Publications
 
-### 📌 Smart Class Attendance System (Fingerprint + NodeJS)  
+### 📌 Smart Class Attendance System (Fingerprint + NodeJS) - Technical Report 
 Co-authored a technical report focusing on integrating biometric fingerprint recognition with Node.js backend technologies to create a secure and efficient attendance management system for educational institutions.
 
-### 📌 Simulation Study on Perfectly Matched Layer (PML)  
+### 📌 Simulation Study on Perfectly Matched Layer (PML) - Technical Report 
 Performed a detailed MATLAB-based simulation to analyze and optimize the Perfectly Matched Layer technique, aimed at minimizing boundary reflections in electromagnetic wave propagation simulations.
 
 <p align="center"><strong>For more details on my research</strong></p>
