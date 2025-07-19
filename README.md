@@ -1,7 +1,7 @@
 <h1 align="center">Md. Nafiul Hasnat</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Electrical%20%26%20Electronics%20Engineering-2C3E50?style=for-the-badge" alt="EEE Badge"/>
+  <img src="https://img.shields.io/badge/Electrical%20%26%20Electronic%20Engineering-2C3E50?style=for-the-badge" alt="EEE Badge"/>
   <img src="https://img.shields.io/badge/Embedded%20Systems-2C3E50?style=for-the-badge&logo=circuit-board&logoColor=white" alt="Embedded Badge"/>
   <img src="https://img.shields.io/badge/Internet%20of%20Things-2C3E50?style=for-the-badge&logo=internetofthings&logoColor=white" alt="IoT Badge"/>
   <img src="https://img.shields.io/badge/Research-2C3E50?style=for-the-badge&logo=book&logoColor=white" alt="Research Badge"/>
