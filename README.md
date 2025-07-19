@@ -41,12 +41,14 @@ Co-authored a technical report focusing on integrating biometric fingerprint rec
 ### 📌 Simulation Study on Perfectly Matched Layer (PML)  
 Performed a detailed MATLAB-based simulation to analyze and optimize the Perfectly Matched Layer technique, aimed at minimizing boundary reflections in electromagnetic wave propagation simulations.
 
-<p align="center" style="margin-top: 1rem;">
-  <strong>For more details on my research:</strong>  
+<p align="center"><strong>For more details on my research</strong></p>
+
+<p align="center">
   <a href="https://www.researchgate.net/profile/Md-Nafiul-Hasnat-2/research" target="_blank" rel="noopener">
-    <img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" alt="ResearchGate Badge" height="28" style="vertical-align:middle;" />
+    <img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" alt="ResearchGate Badge" height="28" />
   </a>
 </p>
+
 
 ---
 
