@@ -1,3 +1,4 @@
+<div style="border: 2px solid #2C3E50; border-radius: 10px; padding: 20px; margin: 10px;">
 <h1 align="center">Md. Nafiul Hasnat</h1>
 
 <p align="center">
