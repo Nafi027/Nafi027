@@ -55,48 +55,93 @@ Performed a detailed MATLAB-based simulation to analyze and optimize the Perfect
 ### 💻 Programming Languages
 
 <p align="center">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white"/>
+  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
+    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  </a>
+  <a href="https://en.wikipedia.org/wiki/C++" target="_blank">
+    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  </a>
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  </a>
+  <a href="https://en.wikipedia.org/wiki/HTML" target="_blank">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  </a>
+  <a href="https://en.wikipedia.org/wiki/JavaScript" target="_blank">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  </a>
+  <a href="https://www.mathworks.com/products/matlab.html" target="_blank">
+    <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white"/>
+  </a>
 </p>
+
 
 ---
 
 ### 🛠️ Platforms & Tools
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ESP32-2C6BED?style=for-the-badge&logo=esphome&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node--RED-8F0000?style=for-the-badge&logo=nodered&logoColor=white"/>
+  <a href="https://www.arduino.cc/" target="_blank">
+    <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
+  </a>
+  <a href="https://www.espressif.com/en/products/socs/esp32" target="_blank">
+    <img src="https://img.shields.io/badge/ESP32-2C6BED?style=for-the-badge&logo=esphome&logoColor=white"/>
+  </a>
+  <a href="https://nodered.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Node--RED-8F0000?style=for-the-badge&logo=nodered&logoColor=white"/>
+  </a>
 </p>
+
 
 ---
 
 ### 🧰 Software
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Cadence-0078D7?style=for-the-badge&logo=windows&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Proteus-FF6F00?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"/>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  </a>
+  <a href="https://code.visualstudio.com/" target="_blank">
+    <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  </a>
+  <a href="https://www.jetbrains.com/pycharm/" target="_blank">
+    <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white"/>
+  </a>
+  <a href="https://www.cadence.com/en_US/home/tools.html" target="_blank">
+    <img src="https://img.shields.io/badge/Cadence-0078D7?style=for-the-badge&logo=windows&logoColor=white"/>
+  </a>
+  <a href="https://www.labcenter.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Proteus-FF6F00?style=for-the-badge&logoColor=white"/>
+  </a>
+  <a href="https://www.mathworks.com/products/matlab.html" target="_blank">
+    <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white"/>
+  </a>
+  <a href="https://developer.android.com/studio" target="_blank">
+    <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"/>
+  </a>
 </p>
+
 
 ---
 
 ### 🎯 Expertise Areas
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Embedded%20Systems-1E90FF?style=for-the-badge&logo=raspberry-pi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/IoT%20Integration-00CED1?style=for-the-badge&logo=iot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F61?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Signal%20Processing-FF4500?style=for-the-badge&logo=signal&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Android%20App%20Development-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
+  <a href="https://en.wikipedia.org/wiki/Embedded_system" target="_blank">
+    <img src="https://img.shields.io/badge/Embedded%20Systems-1E90FF?style=for-the-badge&logo=raspberry-pi&logoColor=white"/>
+  </a>
+  <a href="https://en.wikipedia.org/wiki/Internet_of_things" target="_blank">
+    <img src="https://img.shields.io/badge/IoT%20Integration-00CED1?style=for-the-badge&logo=iot&logoColor=white"/>
+  </a>
+  <a href="https://en.wikipedia.org/wiki/Machine_learning" target="_blank">
+    <img src="https://img.shields.io/badge/Machine%20Learning-FF6F61?style=for-the-badge&logo=machinelearning&logoColor=white"/>
+  </a>
+  <a href="https://en.wikipedia.org/wiki/Signal_processing" target="_blank">
+    <img src="https://img.shields.io/badge/Signal%20Processing-FF4500?style=for-the-badge&logo=signal&logoColor=white"/>
+  </a>
+  <a href="https://developer.android.com/guide" target="_blank">
+    <img src="https://img.shields.io/badge/Android%20App%20Development-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
+  </a>
 </p>
 
 ---
